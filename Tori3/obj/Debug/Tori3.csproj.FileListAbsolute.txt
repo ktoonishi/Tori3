@@ -1,0 +1,9 @@
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\Tori3\Tori3\bin\Debug\Tori3.exe.config
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\Tori3\Tori3\bin\Debug\Tori3.exe
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\Tori3\Tori3\bin\Debug\Tori3.pdb
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\Tori3\Tori3\obj\Debug\Tori3.csprojResolveAssemblyReference.cache
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\Tori3\Tori3\obj\Debug\Tori3.Form1.resources
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\Tori3\Tori3\obj\Debug\Tori3.Properties.Resources.resources
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\Tori3\Tori3\obj\Debug\Tori3.csproj.GenerateResource.Cache
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\Tori3\Tori3\obj\Debug\Tori3.exe
+C:\Users\kent\Documents\Visual Studio 2012\Projects\CSH\Tori3\Tori3\obj\Debug\Tori3.pdb
